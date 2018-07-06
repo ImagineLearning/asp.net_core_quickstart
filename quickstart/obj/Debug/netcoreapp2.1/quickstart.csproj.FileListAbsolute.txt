@@ -1,0 +1,14 @@
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart/bin/Debug/netcoreapp2.1/quickstart.deps.json
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart/bin/Debug/netcoreapp2.1/quickstart.runtimeconfig.json
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart/bin/Debug/netcoreapp2.1/quickstart.runtimeconfig.dev.json
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart/bin/Debug/netcoreapp2.1/quickstart.dll
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart/bin/Debug/netcoreapp2.1/quickstart.pdb
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart/obj/Debug/netcoreapp2.1/quickstart.csprojAssemblyReference.cache
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart/obj/Debug/netcoreapp2.1/quickstart.csproj.CoreCompileInputs.cache
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart/obj/Debug/netcoreapp2.1/quickstart.RazorAssemblyInfo.cache
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart/obj/Debug/netcoreapp2.1/quickstart.RazorAssemblyInfo.cs
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart/obj/Debug/netcoreapp2.1/quickstart.AssemblyInfoInputs.cache
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart/obj/Debug/netcoreapp2.1/quickstart.AssemblyInfo.cs
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart/obj/Debug/netcoreapp2.1/quickstart.RazorTargetAssemblyInfo.cache
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart/obj/Debug/netcoreapp2.1/quickstart.dll
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart/obj/Debug/netcoreapp2.1/quickstart.pdb

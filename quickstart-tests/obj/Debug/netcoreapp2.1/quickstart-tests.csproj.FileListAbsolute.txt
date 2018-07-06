@@ -1,0 +1,17 @@
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/bin/Debug/netcoreapp2.1/quickstart-tests.deps.json
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/bin/Debug/netcoreapp2.1/quickstart-tests.runtimeconfig.json
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/bin/Debug/netcoreapp2.1/quickstart-tests.runtimeconfig.dev.json
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/bin/Debug/netcoreapp2.1/quickstart-tests.dll
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/bin/Debug/netcoreapp2.1/quickstart-tests.pdb
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/bin/Debug/netcoreapp2.1/quickstart.dll
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/bin/Debug/netcoreapp2.1/quickstart.pdb
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/obj/Debug/netcoreapp2.1/quickstart-tests.csprojAssemblyReference.cache
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/obj/Debug/netcoreapp2.1/quickstart-tests.csproj.CoreCompileInputs.cache
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/obj/Debug/netcoreapp2.1/quickstart-tests.AssemblyInfoInputs.cache
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/obj/Debug/netcoreapp2.1/quickstart-tests.AssemblyInfo.cs
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/obj/Debug/netcoreapp2.1/quickstart-tests.csproj.CopyComplete
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/obj/Debug/netcoreapp2.1/quickstart-tests.dll
+/Users/alex.quintero/Dev/dotnetcore2.1-quickstart/quickstart-tests/obj/Debug/netcoreapp2.1/quickstart-tests.pdb
