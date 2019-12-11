@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
@@ -9,12 +9,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="App.Metrics.AspNetCore" Version="2.0.0" />
-    <PackageReference Include="App.Metrics.AspNetCore.Health" Version="2.0.0" />
-    <PackageReference Include="App.Metrics.AspNetCore.Mvc" Version="2.0.0" />
-    <PackageReference Include="App.Metrics.AspNetCore.Tracking" Version="2.0.0" />
-    <PackageReference Include="App.Metrics.Formatters.Prometheus" Version="2.0.0" />
-    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="App.Metrics.AspNetCore" Version="3.2.0" />
+    <PackageReference Include="App.Metrics.AspNetCore.Health" Version="3.2.0" />
+    <PackageReference Include="App.Metrics.AspNetCore.Mvc" Version="3.2.0" />
+    <PackageReference Include="App.Metrics.AspNetCore.Tracking" Version="3.2.0" />
+    <PackageReference Include="App.Metrics.Formatters.Prometheus" Version="3.2.0" />
   </ItemGroup>
 
 </Project>
